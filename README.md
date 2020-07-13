@@ -1,2 +1,2 @@
 # kaggle
-Repo of interesting Kaggle competitions that I've competed in or found prior solutions to be quite insightful
+Repo of interesting Kaggle competitions that I've competed in or apparent solutions to be quite insightful for future projects
